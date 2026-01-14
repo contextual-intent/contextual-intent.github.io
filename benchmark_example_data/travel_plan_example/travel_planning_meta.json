@@ -1,0 +1,1 @@
+{"dataset_name": "travel_planning", "questions_file": "data/main_exp/travel_planning/toy/paper_example/travel_planning_questions.jsonl", "turns_file": "data/main_exp/travel_planning/toy/paper_example/travel_planning_turns.jsonl", "num_questions": 42, "num_turns": 186}
